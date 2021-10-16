@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = boutierfanny@gmail.com
+	name = fanny boutier
